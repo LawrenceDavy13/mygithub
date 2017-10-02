@@ -1,1 +1,1 @@
-# A simple quiz application written in React.jsx
+# Github profile viewer written with react.js
